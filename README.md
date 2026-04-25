@@ -153,7 +153,7 @@ bibtex
   note    = {Code available at https://github.com/ghaderimehr-boop/fractional-economic-inclusion}
 }
 
-Additionally, please cite the Zenodo archive of this specific version (DOI will be added after release).
+Additionally, please cite the Zenodo archive of this specific version ([10.5281/zenodo.19772111](https://doi.org/10.5281/zenodo.19772111)).
 📜 License
 
 This project is distributed under the MIT License. See the LICENSE file for details.
